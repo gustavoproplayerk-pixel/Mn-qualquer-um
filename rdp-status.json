@@ -1,25 +1,25 @@
 {
   "active": false,
-  "hostname": "rdpfree-6",
-  "os": "Microsoft Windows Server 2025 Datacenter",
-  "os_build": "10.0.26100",
+  "hostname": "rdpfree-7",
+  "os": "Microsoft Windows Server 2022 Datacenter",
+  "os_build": "10.0.20348",
   "os_style": "Native Windows",
   "hardware": {
+    "disk_free_gb": 79.6,
     "cpu_threads": 4,
-    "disk_free_gb": 31.7,
     "ram_gb": 16.0
   },
   "rdp_port": 3389,
   "rdp_user": "xyadmin",
   "rdp_listen": ":::3389 (svchost) | 0.0.0.0:3389 (svchost) + handshake ok via 127.0.0.1",
   "rdp_denyts": true,
-  "started_at": "2026-10-21T23:27:22Z",
-  "expires_at": "2026-10-22T05:22:22Z",
+  "started_at": "2026-10-21T23:28:53Z",
+  "expires_at": "2026-10-22T05:23:53Z",
   "duration_menit": 355,
-  "run_id": "39693494868",
+  "run_id": "39693655112",
   "run_attempt": "1",
-  "run_number": "6",
-  "run_url": "https://github.com/gustavoproplayerk-pixel/Mn-qualquer-um/actions/runs/39693494868",
+  "run_number": "7",
+  "run_url": "https://github.com/gustavoproplayerk-pixel/Mn-qualquer-um/actions/runs/39693655112",
   "mode": "bersih+win10",
   "xydesk": {
     "host": "ok",
@@ -49,5 +49,5 @@
       "funnel_addr": ""
     }
   },
-  "stopped_at": "2026-10-21T23:27:35Z"
+  "stopped_at": "2026-10-21T23:29:05Z"
 }
